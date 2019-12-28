@@ -1,9 +1,9 @@
 # Build dependencies
 
-* A Windows machine with Visual Studio 2019 (Community Edition is fine too)
-* Clang-9 for windows (available [here](http://releases.llvm.org/download.html))
+* A Windows machine with [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) (Community Edition is fine too)
+* [Clang-9 for windows](http://releases.llvm.org/download.html)
 * Clang-cl for windows (install it from your visual studio installer)
-* Qt >= 5.12 (Ensure that the QTDIR environment variable is set)
+* [Qt >= 5.12](https://www.qt.io/download) (ensure that the QTDIR environment variable is set!!!)
 
 # Setup the project
 
